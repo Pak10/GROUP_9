@@ -1,1 +1,8 @@
-# GROUP_9
+STUDENT INF0
+********
+
+Name                    REG No              Student No
+Kwesiga Peter           16/U/6411/EVE        216002578
+Sempa Ethan Ian         16/U/11403/PS        216004900
+Nabagidde Grace Diana   16/U/8005/PS         2160012180 
+Bwire Ivan              16/U/4522/PS         216004861
